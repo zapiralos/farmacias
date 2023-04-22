@@ -1,0 +1,50 @@
+/* Estilos del navbar */
+.navbar {
+  background-color: #f8f9fa;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #343a40;
+}
+
+.nav-link {
+  color: #343a40;
+}
+
+.nav-link:hover {
+  color: #0056b3;
+}
+
+/* Estilos del footer */
+footer {
+  background-color: #0077c2;
+  color: #fff;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Estilos del contenido */
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+/* Estilos del botón de usuario */
+.btn-user {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn-user i {
+  font-size: 1.5rem;
+}

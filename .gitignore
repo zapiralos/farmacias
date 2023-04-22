@@ -1,0 +1,66 @@
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencias
+node_modules/
+bower_components/
+jspm_packages/
+
+# Build
+build/
+dist/
+out/
+bin/
+target/
+tmp/
+logs/
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.pyc
+*.pyo
+*.rej
+
+# Archivos de configuración
+*.bak
+*.config
+*.conf
+*.cfg
+*.ini
+*.db
+*.env
+.env.local
+.env.*.local
+.env.test
+.env.prod
+.env.development
+.env.production
+
+# Archivos de compilación
+*.class
+*.war
+*.ear
+
+# Archivos de log
+log/
+logs/
+*.log
+*.log.*
+
+# Archivos de respaldo
+*~
+*.bak
+*.swp
+*.swo
+*.backup
+*.DS_Store
